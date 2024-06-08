@@ -1,2 +1,2 @@
 # Read me
-This project is only a small application for our teamleader at work
+This is a small project based on a test specification.
